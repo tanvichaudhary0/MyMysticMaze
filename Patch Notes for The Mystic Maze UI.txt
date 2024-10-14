@@ -1,0 +1,41 @@
+Patch Notes for The Mystic Maze UI Update
+
+Background Image Change: The background image has been updated from a plain green background to a more dynamic, fantasy-themed background with mountains, forests, and glowing elements.
+
+Title: The title has been changed to "The Mystic Maze" from "The Stone Maze" to match with the fantasy theme of the UI.
+
+Title Styling: The title font for "The Mystic Maze" has been updated to a more thematic font that fits the fantasy aesthetic of the game. The color has been changed to light purple, and the size increased for better visibility.
+
+Menu Icons Change: The menu icons (File, Game, Network, Help, Language) were updated to high-resolution icons with more detailed textures compared to the simpler icons in the previous design.
+
+Ingredient Label Styling: The "Ingredients" label has been modified. The font size has been increased, and a fantasy-style font has been applied to match the game's theme.
+
+Grid Layout: The grid layout remains the same in terms of structure (7x7), but the styling of the maze tiles has been updated with a more textured stone-like appearance.
+
+Arrow Indicators: The arrows for the maze navigation have been slightly enlarged and are now better integrated into the background, making them more visually distinct compared to the previous design.
+
+Player Stats: The player stats section now features a more colorful and vibrant star-based rating system. Each player has a unique colored star (green, blue, yellow, red) next to their names.
+
+Game Log Panel: The "Game Initialized!!" section has been enhanced with a scrollable chat box that now features a wooden textured frame, better aligning with the fantasy theme.
+
+Component Colors: The green numbers on the grid remain the same, but the player icons have been updated with more detailed, fantasy-themed avatars along with their magic component.
+
+Font Update: The font for most of the text (Player's Stat, Instructions, Chat Box) has been updated to a more stylized fantasy-themed font, contributing to the overall cohesive design.
+
+Chat Box Placeholder: The placeholder text "Chat box..." has been replaced by a more thematic and styled input box with a new background and input behavior as well as the scrollbar.
+
+
+
+URL for graphics:
+Background
+fantacy background for games - Search Images (bing.com)
+
+Chat box
+Pin page (pinterest.com)
+
+Menu icons
+Fantasy Badges, Game Assets | GraphicRiver
+
+Fonts
+Love Ya Like A Sister Font | dafont.com
+Irish Grover Fonts in TTF format - FONT Repo Free TTF Fonts
